@@ -3,8 +3,9 @@
 A bare-metal C implementation of the memory game *Simon Says* for the **STM32G431** microcontroller (ARM Cortex-M4), written for the *Technische Informatik* laboratory at **Hochschule Heilbronn**.
 
 It also comes with a simple terminal fallback to play the game on Linux without the microcontroller.
-(It sounded good in Theory but after testing it out,
-it's way to difficult to actually play the Terminal version without debug mode on for me, but that might just be a skill issue).
+
+(It sounded good in theory but after testing it out, it's way to difficult to actually play the Terminal version without using the debug mode for me,
+but that might just be a skill issue lol).
 
 ---
 
