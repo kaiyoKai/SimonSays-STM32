@@ -1,0 +1,11 @@
+Für Eigenes ASCIIART,Emojis oder andere Texte einfach eine Textdatei in "./Desktop/assets/" ablegen.
+⛷️
+
+
+🍄🍄🍄🍄
+|👁️👃🏻👁️|      <--- BILD VON MIR™
+|  👅. |
+
+
+(Gerade herausgefunden das die meisten Terminal-Emulatoren Keine Emojis unterstützen -_-)
+(Das Kitty Terminal ist super!)

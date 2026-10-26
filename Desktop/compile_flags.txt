@@ -1,0 +1,2 @@
+-I../Core/Inc
+-DDESKTOP_SIMULATION
