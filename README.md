@@ -4,7 +4,7 @@ A bare-metal C implementation of the memory game *Simon Says* for the **STM32G43
 
 It also comes with a simple terminal fallback to play the game on Linux without the microcontroller.
 
-(It sounded good in theory but after testing it out, it's way to difficult to actually play the Terminal version without using the debug mode for me,
+(It sounded good in theory but after testing it out, it's way to difficult for me to actually play the Terminal version without cheating by usingthe debug mode,
 but that might just be a skill issue lol).
 
 ---
