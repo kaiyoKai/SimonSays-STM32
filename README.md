@@ -82,6 +82,3 @@ make flash
 * `Documentation.pdf` – Original lab documentation (circuit and hardware schematics).
 
 ---
-
-**Author:** Kai K
-*Student of Applied Computer Science, Hochschule Heilbronn*
