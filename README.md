@@ -74,11 +74,11 @@ make flash
 
 ## Project Structure
 
-* `Core/Src/main.c` – Game engine and state machine logic.
-* `Core/Src/hardware.c` – Bare-metal register implementation for STM32.
+* `Core/Src/main.c` – "Game engine" and state machine logic.
+* `Core/Src/hardware.c` – register implementation for STM32.
 * `Core/Inc/hardware.h` – Platform switch (`#ifdef DESKTOP_SIMULATION`).
 * `Desktop/desktop_hardware.c` – Linux simulator using `termios` and `pthreads`.
 * `Desktop/assets/` – ASCII art assets for terminal playback.
-* `Documentation.pdf` – Original lab documentation (circuit and hardware schematics).
+* `Documentation.pdf` – Original lab documentation (in German).
 
 ---
