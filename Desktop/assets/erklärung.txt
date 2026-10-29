@@ -1,4 +1,4 @@
-Für Eigenes ASCIIART,Emojis oder andere Texte einfach eine Textdatei in "/Desktop/assets/" ablegen.
+Für Eigenes ASCIIART,Emojis oder andere Texte einfach eine Textdatei in "Desktop/assets/" ablegen.
 ⛷️
 
 
