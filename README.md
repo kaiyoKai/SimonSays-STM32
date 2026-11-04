@@ -1,6 +1,6 @@
 # SimonSays-STM32
 
-A bare-metal C implementation of the memory game *Simon Says* for the **STM32G431** microcontroller (ARM Cortex-M4), written for the *Technische Informatik* laboratory at **Hochschule Heilbronn**.
+A C implementation of the memory game *Simon Says* for the **STM32G431** microcontroller (ARM Cortex-M4), written for the *Technische Informatik* laboratory at **Hochschule Heilbronn**.
 
 It also comes with a simple terminal fallback to play the game on Linux without the microcontroller.
 
